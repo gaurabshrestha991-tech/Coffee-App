@@ -12,6 +12,3 @@ Beginner-friendly and easy to understand
 ## Technologies Used
 Python 3
 Object-Oriented Programming (OOP)
-
-## Project Status
-This project is currently under development. More features such as removing items, saving orders, and improved user interaction will be added in future updates
