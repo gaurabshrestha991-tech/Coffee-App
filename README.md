@@ -10,5 +10,6 @@ Calculate the total bill
 Beginner-friendly and easy to understand
 
 ## Technologies Used
+
 Python 3
 Object-Oriented Programming (OOP)
